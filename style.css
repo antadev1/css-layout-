@@ -1,0 +1,281 @@
+nav {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+nav ul {
+    display: flex;
+    margin-left: 600px;
+    margin-top: 20px;
+}
+
+nav ul li {
+    list-style: none;
+    margin: 15px;
+}
+
+nav ul li a {
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #00B39B;
+}
+
+nav img {
+    margin-top: 0;
+    margin-left: 50px;
+    width: 200px;
+    height: 100px;
+}
+
+.image {
+    text-align: center;
+    font-size: small;
+}
+
+.titremain {
+    font-size: 25px;
+    color: #00B39B;
+    font-family: Work Sans;
+    text-align: center;
+
+
+}
+
+.para {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    font-size: 20px;
+    text-align: center;
+
+
+}
+
+.paragauche {
+    padding-left: 9%;
+    padding-bottom: 70px;
+}
+
+.paradroite {
+    margin-right: 100px;
+}
+
+.groupe {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.para1 {
+
+    background-color: #00B39B;
+    border-radius: 16px;
+
+
+}
+
+.para2 {
+
+    background-color: #3D83DF;
+    border-radius: 16px;
+
+}
+
+.para3 {
+
+    background-color: black;
+    border-radius: 16px;
+}
+
+.sect {
+    width: 300px;
+    height: 400px;
+    margin: 15px;
+}
+
+.fixe {
+    font-size: 20px;
+    color: white;
+}
+
+.flex {
+    color: white;
+}
+
+.faculte {
+    margin-left: -200px;
+    margin-top: 20px;
+}
+
+.styleselect {
+    margin-top: 150px;
+    margin-right: 100px;
+}
+
+.style-article {
+    margin-top: 150px;
+    margin-right: 100px;
+}
+
+.style-action {
+    margin-top: 150px;
+    margin-right: 100px;
+}
+
+.bandeone {
+    display: flex;
+
+}
+
+.bande {
+    margin-left: 100px;
+    width: 200px;
+}
+
+.bande2 {
+    display: flex;
+    text-align: center;
+}
+
+.bande3 {
+    display: flex;
+    text-align: center;
+}
+
+.bande2 li {
+    list-style: none;
+    margin: 15px;
+
+}
+
+.bande3 li {
+    list-style: none;
+    margin: 15px;
+}
+
+.bande4 {
+    list-style: none;
+}
+
+path {
+    fill: grey;
+}
+
+path:hover {
+    fill: #00B39B;
+    stroke: #00B39B;
+}
+
+.temps {
+    background-color: rgb(208, 252, 237);
+}
+.present{
+    display: flex;
+    text-align: center;
+
+}
+.future{
+    margin-left: 20px;
+}
+.fa{
+    width: 400px;
+    height: 300px;
+    margin-top: 20px;
+    background-color:rgb(208, 252, 237); ;
+}
+
+.countries {
+    background-color: white;
+}
+.appro {
+    background-color: white;
+    margin-bottom: 10px;
+
+}
+.pat {
+    background-color: white;
+}
+.act {
+    background-color: white;
+}
+.col-A , .col-d{
+    display: flex;
+    margin-left: 100px;
+}
+.anta {
+    margin: 10px;
+    margin-top: 70px
+}
+.pat , .act {
+    margin: 15px;
+}
+.head{
+    text-align: center;
+}
+.svt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.usb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    margin: 15px;
+    background-color: rgb(247, 246, 244);
+    border-radius: 5px;
+}
+.card a img {
+    margin-left: -5px;
+    border-radius: 5px;
+}
+.card a {
+    text-decoration: none;
+}
+.btn {
+   
+    margin-left: 150px;
+    background-color: blue;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    width: auto;
+}
+
+.adja {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.adja a {
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+.main-footer{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.section--inner{
+    align-items: center;
+    justify-content: center;
+}
+.end{
+    text-align: center;
+}
